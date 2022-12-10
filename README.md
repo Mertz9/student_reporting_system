@@ -1,4 +1,4 @@
-# student reporting system
+# Student Reporting System
 
 <h3>Student database with add, update and delete options.</h3>
 <img src="1.png">
